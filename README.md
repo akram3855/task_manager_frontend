@@ -35,7 +35,7 @@ Android/iOS Setup: Ensure your mobile development environment is configured to r
 
 Clone the project from GitHub and navigate into the directory.
 ```bash
-git clone https://github.com/your-username/task-manager-frontend.git
+git clone https://github.com/akram3855/task_manager_frontend.git
 cd task-manager-frontend
 ```
 ## 3. Configure Environment Variables
